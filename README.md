@@ -61,8 +61,8 @@ Hacking Tools And Facebook Bot
 	
 	$ pkg install git
 	
-	$ git clone https://github.com/AkinXD/EliteV1
+	$ git clone https://github.com/AkinXD/Dark-EliteV1
 	
-	$ cd EliteV1
+	$ cd Dark-EliteV1
 	
 	$ ruby main.rb
